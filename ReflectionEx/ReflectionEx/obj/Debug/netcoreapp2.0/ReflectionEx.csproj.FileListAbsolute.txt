@@ -1,0 +1,11 @@
+D:\CSharp\ReflectionEx\ReflectionEx\bin\Debug\netcoreapp2.0\ReflectionEx.deps.json
+D:\CSharp\ReflectionEx\ReflectionEx\bin\Debug\netcoreapp2.0\ReflectionEx.runtimeconfig.json
+D:\CSharp\ReflectionEx\ReflectionEx\bin\Debug\netcoreapp2.0\ReflectionEx.runtimeconfig.dev.json
+D:\CSharp\ReflectionEx\ReflectionEx\bin\Debug\netcoreapp2.0\ReflectionEx.dll
+D:\CSharp\ReflectionEx\ReflectionEx\bin\Debug\netcoreapp2.0\ReflectionEx.pdb
+D:\CSharp\ReflectionEx\ReflectionEx\obj\Debug\netcoreapp2.0\ReflectionEx.csprojResolveAssemblyReference.cache
+D:\CSharp\ReflectionEx\ReflectionEx\obj\Debug\netcoreapp2.0\ReflectionEx.csproj.CoreCompileInputs.cache
+D:\CSharp\ReflectionEx\ReflectionEx\obj\Debug\netcoreapp2.0\ReflectionEx.AssemblyInfoInputs.cache
+D:\CSharp\ReflectionEx\ReflectionEx\obj\Debug\netcoreapp2.0\ReflectionEx.AssemblyInfo.cs
+D:\CSharp\ReflectionEx\ReflectionEx\obj\Debug\netcoreapp2.0\ReflectionEx.dll
+D:\CSharp\ReflectionEx\ReflectionEx\obj\Debug\netcoreapp2.0\ReflectionEx.pdb
