@@ -24,7 +24,11 @@ public class HellpAttribute : System.Attribute
     }
 }
 
-[HelpAttribute ]
+[HellpAttribute("Information on the class MyClass")]
+class MyClass
+{
+
+}
 
 
 namespace ReflectionEx
@@ -33,9 +37,14 @@ namespace ReflectionEx
     {
         static void Main(string[] args)
         {
-            Type t = typeof(String);
-            MethodInfo substr = t.GetMethod("Substring", new Type[]);
+            MemberInfo info = typeof(MyClass);
+            object[] attribute = info.GetCustomAttributes(true);
             
+            for(int i=0; i<attribute.Length;i++)
+            {
+                Console.WriteLine(attribute[i]);
+            }
+            Console.ReadKey();
         }
     }
 }
